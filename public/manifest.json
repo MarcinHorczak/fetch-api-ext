@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Fetch API Extension",
+  "description": "Fetch API Extension",
+  "version": "0.1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open Fetch API",
+    "default_icon": {
+      "16": "/ext-favicon.png"
+    }
+  },
+  "icons": {
+    "16": "/ext-favicon.png"
+  },
+  "permissions": ["scripting"]
+}
