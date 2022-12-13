@@ -10,6 +10,10 @@ body {
   text-align: center;
 }
 
+.data {
+  padding: 30px;
+}
+
 /* https://getcssscan.com/css-buttons-examples */
 button {
   align-items: center;
